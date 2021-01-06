@@ -29,7 +29,7 @@
 OS X & Linux:
 
 ```sh
- git clone https://github.com/prakharsingh1312/Skin-Cancer-Detection.git SCD
+ git clone https://github.com/namantuli18/Skin-Cancer-Detection.git SCD
  cd SCD
  virtualenv venv
  source venv/bin/activate
@@ -58,7 +58,7 @@ python3 app.py
 
 ## Contributing
 
->1. Fork it (<https://github.com/prakharsingh1312/Skin-Cancer-Detection/fork>)
+>1. Fork it (<https://github.com/namantuli18/Skin-Cancer-Detection.git/fork>)
 >2. Create your feature branch (`git checkout -b feature/fooBar`)
 >3. Commit your changes (`git commit -am 'Add some fooBar'`)
 >4. Push to the branch (`git push origin feature/fooBar`)
