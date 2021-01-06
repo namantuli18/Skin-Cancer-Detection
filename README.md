@@ -40,7 +40,7 @@ OS X & Linux:
 Windows (Not Recommended as Pytorch has problems in installing):
 
 ```sh
-git clone https://github.com/prakharsingh1312/Skin-Cancer-Detection.git SCD
+git clone https://github.com/namantuli18/Skin-Cancer-Detection.git SCD
 cd SCD
 virtualenv venv
 ./venv/Scripts/activate
